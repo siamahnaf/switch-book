@@ -29,9 +29,9 @@ To unlock the wonders of this project, simply follow these steps:
 <img src="https://lh3.googleusercontent.com/d/1qlJXZ1s6Cavb33_BQlyUnrk1VukNwkA9" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Support
-Need assistance? Drop us a line at mail@siamahnaf.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
+Need assistance? Drop me a line at mail@siamahnaf.com or hop on over to my lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
 
-## Author
+## Authors
 - [www.siamahnaf.com](https://www.siamahnaf.com/)
 
 ## Who I am?
@@ -44,7 +44,7 @@ I build secure, scalable, and high-performance server-side solutions, tailored t
 - **Deployment Services**
 I handle server setup, configuration, and maintenance, ensuring your web app is deployed securely and efficiently.
 
-## Connect with us
+## Connect with me
 <div style="display: flex; align-items: center; gap: 3px;">
 <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/siamahnaf/" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1hqME_Okrps0P1tKi18Rl66W7oa334daw" width="40" height="40"></a>
