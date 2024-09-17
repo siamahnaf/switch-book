@@ -39,14 +39,14 @@ Need assistance? Drop me a line at mail@siamahnaf.com or hop on over to my livel
 - [www.siamahnaf.com](https://www.siamahnaf.com/)
 
 ## Who I am?
-I am your go-to entity for web application development. Whether it's creating beautiful frontend, robust backend, or ensuring smooth deployment, I've got you covered.
+I'm Siam Ahnaf, a passionate developer who loves to learn new things and create awesome projects. I enjoy working on front-end, back-end, and mobile app development and have experience with various programming languages and frameworks.
 
 - **Frontend Development**
-Crafting stunning and responsive user interfaces is my passion. I ensure your web app not only looks great but also delivers an exceptional user experience.
+I specialize in creating custom web and mobile applications as your unique needs and requirements.
 - **Backend Development**
-I build secure, scalable, and high-performance server-side solutions, tailored to your needs, ensuring your web app runs smoothly.
-- **Deployment Services**
-I handle server setup, configuration, and maintenance, ensuring your web app is deployed securely and efficiently.
+My backend development services cover everything from database design to server-side logic.
+- **Cloud Services**
+I take care of deploying your web applications to production environments securely.
 
 ## Connect with me
 <div style="display: flex; align-items: center; gap: 3px;">
