@@ -1,4 +1,5 @@
 <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100" style="display: block; margin: 0 auto;">
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100" style="display: block; margin: 0 auto;">
 
 # Switch Book
 A lightweight JavaScript project for creating interactive variations switchers. Easily toggle between different variations with a click, perfect for showcasing product variations or before-and-after comparisons.
