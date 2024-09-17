@@ -1,7 +1,9 @@
 <p float="left">
-  <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100" style="padding-right: 20px;">
+  <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100">
+  &nbsp;&nbsp;&nbsp; <!-- Adds space between the two images -->
   <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100">
 </p>
+
 
 
 
