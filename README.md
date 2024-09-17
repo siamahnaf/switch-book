@@ -1,7 +1,7 @@
 <p float="left">
   <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100">
+  <img src="https://res.cloudinary.com/dub0dpenl/image/upload/v1726562110/Personal/xbetf83o2drangioe1ia.png" width="100" height="100">
 </p>
 
 
